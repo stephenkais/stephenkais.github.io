@@ -5,6 +5,10 @@
 	margin: auto;
 }
 
+img {
+	z-index:-100;
+}
+
 h1{
 	margin:auto;
 	text-align: center;
