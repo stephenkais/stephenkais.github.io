@@ -8,7 +8,7 @@
 }
 
 img {
-	z-index:1;
+	z-index:3;
 }
 
 h1{
@@ -19,7 +19,7 @@ h1{
 .form{
 	margin: auto;
 	border: none;
-	z-index: 3;
+	z-index: 4;
 }
 
 textarea {
@@ -72,7 +72,7 @@ fieldset {
 .my-container h1 {
     padding: 200px;
     position: relative;
-    z-index: 1;
+    z-index: 3;
 } 
 .my-container img {
     position: absolute;
