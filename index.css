@@ -1,14 +1,16 @@
 *{
-	font-family: 'Roboto';
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-	margin: auto;
+}
+body{
+	background: url(https://s-media-cache-ak0.pinimg.com/originals/f4/c6/81/f4c681801f430303283140bbf9f75cf0.jpg) top center no-repeat;
 	background-color: #1C6D75;
 }
 
 h1{
 	margin:auto;
 	text-align: center;
+	height: 600px;
 }
 
 form{
@@ -18,22 +20,20 @@ form{
 
 textarea {
 	    border: 1px solid #7FFFD4;
-	        width: 300px;
 	        float: center;
 	        font-size: 14px;
 	        background-color: rgba(0,0,0,0);
 }
-p {display:inline;}
+
 
 fieldset {
-    border: 1px solid #7FFFD4;
-    width: 150px;
+    border: none;
     float: center;
     margin: auto;
 }
 
 .button {
-    background-color: #7FFFD4; /* Green */
+    background-color: #7FFFD4; 
     border: none;
     color: white;
     padding: 16px 32px;
@@ -44,13 +44,14 @@ fieldset {
     margin: auto;
     cursor: pointer;
     width:150px;
+
 }
 
 .button1 {
     background-color: rgba(0,0,0,0); 
     color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    border: 2px solid #7FFFD4;
+    border: 1px solid #7FFFD4;
 }
 
 .button1:hover {
@@ -58,21 +59,7 @@ fieldset {
     color: white;
 }
 
-
-.my-container {
-    position: relative;
-    overflow: hidden;
-}
-.my-container h1 {
-    padding: 200px;
-    position: relative;
-} 
-.my-container img {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: auto;
-    opacity: 0.5;
-    z-index: 2;
+.label{
+	display: inline-box;
+	width: 200px;
 }
