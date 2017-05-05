@@ -16,6 +16,8 @@ h1{
 form{
 	margin: auto;
 	border: none;
+	text-align: center;
+	display:inline-box;
 }
 
 textarea {
@@ -26,11 +28,6 @@ textarea {
 }
 
 
-fieldset {
-    border: none;
-    float: center;
-    margin: auto;
-}
 
 .button {
     background-color: #7FFFD4; 
