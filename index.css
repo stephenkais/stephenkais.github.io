@@ -5,7 +5,10 @@
 }
 
 
-
+fieldset {
+    width: 200px;
+    float: left;
+}
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
