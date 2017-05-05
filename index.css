@@ -16,7 +16,7 @@ h1{
 
 form{
 	margin: auto;
-	border: 0px;
+	border: none;
 	z-index: 1;
 }
 
