@@ -22,7 +22,7 @@ h1{
 	z-index: 3;
 }
 
-textarea {
+.textarea {
 	    border: 1px solid #7FFFD4;
 	        width: 300px;
 	        float: center;
@@ -36,7 +36,6 @@ p {display:inline;}
     width: 150px;
     float: center;
     margin: auto;
-    z-index: 3;
 }
 .button {
     background-color: #7FFFD4; /* Green */
