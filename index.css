@@ -8,6 +8,8 @@
 fieldset {
     width: 200px;
     float: left;
+    margin: 100px 100px;
+
 }
 .button {
     background-color: #4CAF50; /* Green */
