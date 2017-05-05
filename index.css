@@ -22,7 +22,7 @@ h1{
 	z-index: 3;
 }
 
-.textarea {
+textarea {
 	    border: 1px solid #7FFFD4;
 	        width: 300px;
 	        float: center;
@@ -31,12 +31,13 @@ h1{
 }
 p {display:inline;}
 
-.fieldset {
+fieldset {
     border: 1px solid #7FFFD4;
     width: 150px;
     float: center;
     margin: auto;
 }
+
 .button {
     background-color: #7FFFD4; /* Green */
     border: none;
