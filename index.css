@@ -28,6 +28,7 @@ textarea {
 	        font-size: 14px;
 	        background-color: rgba(0,0,0,0);
 }
+p {display:inline;}
 
 fieldset {
     border: 1px solid #7FFFD4;
