@@ -8,7 +8,7 @@ textarea {
 	    border: 1px solid #7FFFD4;
 	        width: 200px;
 	        float: center;
-	        font-size: 16px;
+	        font-size: 14px;
 
 
 }
@@ -28,8 +28,8 @@ fieldset {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 14px;
-    margin: 4px 2px;
+    font-size: 12px;
+    margin: auto;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
