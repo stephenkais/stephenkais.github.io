@@ -25,6 +25,7 @@ textarea {
 	        width: 200px;
 	        float: center;
 	        font-size: 14px;
+	        background-color: rgba(0,0,0,0);
 }
 
 fieldset {
