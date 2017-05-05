@@ -4,11 +4,10 @@
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	margin: auto;
 	background-color: #68B9BD;
-	z-index: -2;
 }
 
 img {
-	z-index:-1;
+	z-index:3;
 }
 
 h1{
@@ -19,7 +18,7 @@ h1{
 .form{
 	margin: auto;
 	border: none;
-	z-index: 1;
+	z-index: 4;
 }
 
 textarea {
