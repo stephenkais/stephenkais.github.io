@@ -36,6 +36,7 @@ fieldset {
     width: 150px;
     float: center;
     margin: auto;
+    z-index: 3;
 }
 .button {
     background-color: #7FFFD4; /* Green */
