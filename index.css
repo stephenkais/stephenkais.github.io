@@ -6,9 +6,10 @@
 
 
 fieldset {
+    border: 1px solid rgb(255,232,57);
     width: 200px;
     float: left;
-    margin: 100px 100px;
+    margin: auto;
 
 }
 .button {
