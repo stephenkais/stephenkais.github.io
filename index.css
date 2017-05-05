@@ -3,6 +3,7 @@
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	margin: auto;
+	background-color: #68B9BD;
 }
 
 img {
@@ -18,12 +19,11 @@ h1{
 	margin: auto;
 	border: none;
 	z-index: 1;
-	width:300px;
 }
 
 textarea {
 	    border: 1px solid #7FFFD4;
-	        width: 150px;
+	        width: 300px;
 	        float: center;
 	        font-size: 14px;
 	        background-color: rgba(0,0,0,0);
