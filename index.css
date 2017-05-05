@@ -6,10 +6,6 @@
 	background-color: #1C6D75;
 }
 
-img {
-z-index: 2
-}
-
 h1{
 	margin:auto;
 	text-align: center;
@@ -78,4 +74,5 @@ fieldset {
     width: 100%;
     height: auto;
     opacity: 0.5;
+    z-index: 2;
 }
