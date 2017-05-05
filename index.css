@@ -31,7 +31,7 @@ textarea {
 }
 p {display:inline;}
 
-fieldset {
+.fieldset {
     border: 1px solid #7FFFD4;
     width: 150px;
     float: center;
