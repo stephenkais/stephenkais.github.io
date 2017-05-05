@@ -14,7 +14,7 @@ h1{
 	text-align: center;
 }
 
-form{
+.form{
 	margin: auto;
 	border: none;
 	z-index: 1;
@@ -33,7 +33,6 @@ fieldset {
     width: 300px;
     float: center;
     margin: auto;
-
 }
 .button {
     background-color: #7FFFD4; /* Green */
