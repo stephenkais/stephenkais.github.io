@@ -18,11 +18,12 @@ h1{
 	margin: auto;
 	border: none;
 	z-index: 1;
+	width:300px;
 }
 
 textarea {
 	    border: 1px solid #7FFFD4;
-	        width: 200px;
+	        width: 150px;
 	        float: center;
 	        font-size: 14px;
 	        background-color: rgba(0,0,0,0);
@@ -30,7 +31,7 @@ textarea {
 
 fieldset {
     border: 1px solid #7FFFD4;
-    width: 300px;
+    width: 150px;
     float: center;
     margin: auto;
 }
@@ -45,6 +46,7 @@ fieldset {
     font-size: 12px;
     margin: auto;
     cursor: pointer;
+    width:150px;
 }
 
 .button1 {
@@ -74,6 +76,6 @@ fieldset {
     left: 0;
     top: 0;
     width: 100%;
-    height: 100%;
+    height: auto;
     opacity: 0.5;
 }
